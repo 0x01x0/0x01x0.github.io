@@ -6,7 +6,7 @@
   <link href="https://0x01x0.ml/atom.xml" rel="self"/>
   
   <link href="https://0x01x0.ml/"/>
-  <updated>2021-01-31T17:10:02.528Z</updated>
+  <updated>2021-02-02T08:38:56.670Z</updated>
   <id>https://0x01x0.ml/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Rocket.Chat for Docker</title>
+    <link href="https://0x01x0.ml/2021/02/02/rocketchat/"/>
+    <id>https://0x01x0.ml/2021/02/02/rocketchat/</id>
+    <published>2021-02-02T08:38:18.000Z</published>
+    <updated>2021-02-02T08:38:56.670Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>FileRun+NextCloud实现图床和备份</title>
